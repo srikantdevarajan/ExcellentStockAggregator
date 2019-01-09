@@ -1,0 +1,4 @@
+nflx
+amd
+aapl
+goog
