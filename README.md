@@ -1,1 +1,4 @@
 # ExcellentStockAggregator
+For this project, I used the **yahoo finance** open source API, **csv**, **datetime**, and **pandas** (a little bit) libraries to build this project. The main premise of the project is for the user to provide stock market tickers in a text file. This program will read that text file and create a compact and neat csv file with each of the Ticker's Stock information. The information that is presented in the Excel file is the 1 year target estimate, 52 week range, PE Ratio, and EPS (TTM), and other indicators. 
+
+This program can easily be scheduled using the windows task scheduler to automate this information collection process every single day. So, anyone who would like to collect stock data for whatever purpose, can use this program to aggregate data over a period of time and use it for their own purposes. 
